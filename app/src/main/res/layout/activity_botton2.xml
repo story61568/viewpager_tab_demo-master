@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/watercolor"
+    tools:context="com.example.givemepss.viewpagertablayoutdemo.botton2">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_alignEnd="@+id/textView3"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/textView3"
+        android:background="@drawable/phone" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="課程："
+        android:textColor="@color/abc_input_method_navigation_guard"
+        android:textSize="40sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="199dp"
+        android:layout_above="@+id/textView3"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="345dp"
+        android:layout_height="130dp"
+        android:layout_below="@+id/textView6"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:text="知識：本課程目的在於訓練學員網路架構的各種軟硬體組成。在網路硬體方面，主要教導學生熟悉router、switch、各種伺服器的原理及相關協定。在網路軟體方面，主要教導學生基本網路架構本課程也包括網路管理與網路安全的基本主題。"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="247dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="345dp"
+        android:layout_height="70dp"
+        android:text="技能：教授概念、網路管理、網路協定、與網路安全等主題。"
+        android:textSize="18sp"
+        android:layout_below="@+id/textView3"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_marginTop="11dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="講師："
+        android:textColor="@color/abc_input_method_navigation_guard"
+        android:textSize="40sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="343dp"
+        android:layout_below="@+id/textView5"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="345dp"
+        android:layout_height="97dp"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="18dp"
+        android:text="林錦財教授"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="406dp" />
+
+
+</RelativeLayout>

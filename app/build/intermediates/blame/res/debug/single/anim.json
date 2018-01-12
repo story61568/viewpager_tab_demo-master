@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\398f0b591be64393af3248ba8e30525967871898\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\883e115bd090c77389a5760d7532b391e2a0b847\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\398f0b591be64393af3248ba8e30525967871898\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\398f0b591be64393af3248ba8e30525967871898\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\883e115bd090c77389a5760d7532b391e2a0b847\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\398f0b591be64393af3248ba8e30525967871898\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\883e115bd090c77389a5760d7532b391e2a0b847\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\b70682af2349eea8fa621d40e8bfde7e2f22b2cd\\output\\res\\anim\\fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\aff03e6ebc3bca2382404792abf52044e9c68fd1\\output\\res\\anim\\fab_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\883e115bd090c77389a5760d7532b391e2a0b847\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\883e115bd090c77389a5760d7532b391e2a0b847\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\b70682af2349eea8fa621d40e8bfde7e2f22b2cd\\output\\res\\anim\\fab_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\883e115bd090c77389a5760d7532b391e2a0b847\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\883e115bd090c77389a5760d7532b391e2a0b847\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\398f0b591be64393af3248ba8e30525967871898\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_out.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\aff03e6ebc3bca2382404792abf52044e9c68fd1\\output\\res\\anim\\snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\883e115bd090c77389a5760d7532b391e2a0b847\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\398f0b591be64393af3248ba8e30525967871898\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\398f0b591be64393af3248ba8e30525967871898\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_in.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\b70682af2349eea8fa621d40e8bfde7e2f22b2cd\\output\\res\\anim\\snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\398f0b591be64393af3248ba8e30525967871898\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_in.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\aff03e6ebc3bca2382404792abf52044e9c68fd1\\output\\res\\anim\\snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\883e115bd090c77389a5760d7532b391e2a0b847\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\398f0b591be64393af3248ba8e30525967871898\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\aff03e6ebc3bca2382404792abf52044e9c68fd1\\output\\res\\anim\\fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\KSUIE\\AndroidStudioProjects\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\KSUIE\\.android\\build-cache\\398f0b591be64393af3248ba8e30525967871898\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\883e115bd090c77389a5760d7532b391e2a0b847\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_out.xml",
+        "source": "C:\\Users\\玲\\.android\\build-cache\\b70682af2349eea8fa621d40e8bfde7e2f22b2cd\\output\\res\\anim\\snackbar_out.xml"
+    }
+]

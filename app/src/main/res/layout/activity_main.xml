@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/watercolor"
+    tools:context="com.example.givemepss.viewpagertablayoutdemo.MainActivity">
+
+    <android.support.design.widget.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tabs"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_below="@id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/horizontalScrollView2" />
+
+<HorizontalScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="70dp"
+    android:layout_alignParentBottom="true"
+    android:id="@+id/horizontalScrollView2">
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="70dp">
+
+    <Button
+        android:id="@+id/Button1"
+        android:layout_width="110dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/a"
+        android:textSize="50sp"/>
+
+    <Button
+        android:id="@+id/Button2"
+        android:layout_width="110dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/a1"
+        android:textSize="50sp" />
+    <Button
+        android:id="@+id/Button3"
+        android:layout_width="110dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/a2"
+        android:textSize="50sp"/>
+    <Button
+        android:id="@+id/Button4"
+        android:layout_width="110dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/a3"
+        android:textSize="50sp"/>
+    <Button
+        android:id="@+id/Button5"
+        android:layout_width="110dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/a4"
+        android:textSize="50sp"/>
+</LinearLayout>
+</HorizontalScrollView>
+
+</RelativeLayout>

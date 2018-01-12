@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:3:5-59
+		INJECTED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:7:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:10:5-35:19
+MERGED from [com.android.support:design:22.2.0] C:\Users\KSUIE\.android\build-cache\aff03e6ebc3bca2382404792abf52044e9c68fd1\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\KSUIE\.android\build-cache\398f0b591be64393af3248ba8e30525967871898\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\KSUIE\.android\build-cache\c0f54ed224ca0398f064068c4c5b990bd3e25a6c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha4] C:\Users\KSUIE\.android\build-cache\111fac48afc0f6a6593ae2376b65d1d7dcad40c4\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:13:9-28
+	android:supportsRtl
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.givemepss.viewpagertablayoutdemo.Lovelife2
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:16:19-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.givemepss.viewpagertablayoutdemo.MainActivity
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:23:9-25:46
+	android:launchMode
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:25:13-43
+	android:name
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:24:13-41
+activity#com.example.givemepss.viewpagertablayoutdemo.botton1
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:26:9-45
+	android:name
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:26:19-42
+activity#com.example.givemepss.viewpagertablayoutdemo.botton2
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:27:9-30:47
+	android:label
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:29:13-59
+	android:theme
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:28:13-36
+activity#com.example.givemepss.viewpagertablayoutdemo.botton3
+ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:31:9-34:56
+	android:label
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:33:13-59
+	android:theme
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml:32:13-36
+uses-sdk
+INJECTED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:22.2.0] C:\Users\KSUIE\.android\build-cache\aff03e6ebc3bca2382404792abf52044e9c68fd1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\KSUIE\.android\build-cache\398f0b591be64393af3248ba8e30525967871898\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\KSUIE\.android\build-cache\c0f54ed224ca0398f064068c4c5b990bd3e25a6c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha4] C:\Users\KSUIE\.android\build-cache\111fac48afc0f6a6593ae2376b65d1d7dcad40c4\output\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KSUIE\AndroidStudioProjects\viewpager_tab_demo-master\app\src\main\AndroidManifest.xml

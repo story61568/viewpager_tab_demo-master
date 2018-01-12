@@ -1,0 +1,22 @@
+#Fri Jan 12 09:24:47 CST 2018
+renamed.6=classes3.dex
+renamed.5=classes7.dex
+renamed.4=classes4.dex
+renamed.3=classes2.dex
+renamed.2=classes.dex
+renamed.1=classes6.dex
+renamed.0=classes5.dex
+base.6=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_48732f7624e4ff7f5df4fea7e608a5b7d786bda0
+base.5=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_87f5a75e1de9f212162c85b163eaa9811670bbdf
+base.4=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_af59eb2daed50854d462ef79ac92f498f187584f
+base.3=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2451770632f038b0cfec8c87621c64ca0a7a0144
+base.2=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_04ea1d18f3aa834437f8438b7cab9a38c1e56930
+base.1=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_f191d7292f4affe59f0c8bb0336b6845f1d336d3
+base.0=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0-alpha4_d001499d0da4e562ab5749a960f3f5fa34aaac3e
+file.6=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_48732f7624e4ff7f5df4fea7e608a5b7d786bda0\\classes.dex
+file.5=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_87f5a75e1de9f212162c85b163eaa9811670bbdf\\classes.dex
+file.4=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_af59eb2daed50854d462ef79ac92f498f187584f\\classes.dex
+file.3=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2451770632f038b0cfec8c87621c64ca0a7a0144\\classes.dex
+file.2=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_04ea1d18f3aa834437f8438b7cab9a38c1e56930\\classes.dex
+file.1=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_f191d7292f4affe59f0c8bb0336b6845f1d336d3\\classes.dex
+file.0=D\:\\Android\\viewpager_tab_demo-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.0-alpha4_d001499d0da4e562ab5749a960f3f5fa34aaac3e\\classes.dex

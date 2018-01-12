@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">登錄或註冊</string>
+    <string name="action_sign_in_short">登錄</string>
+    <string name="error_invalid_email">電子郵件地址無效</string>
+    <string name="error_invalid_password">密碼太短</string>
+    <string name="error_incorrect_password">密碼不正確</string>
+    <string name="error_field_required">必填欄</string>
+    <string name="permission_rationale">缺少聯繫人權限。</string>
+    <string name="title_activity_botton2">botton2</string>
+    <string name="title_activity_botton3">botton3</string>
+</resources>

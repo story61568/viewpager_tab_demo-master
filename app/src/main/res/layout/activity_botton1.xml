@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/watercolor"
+    tools:context="com.example.givemepss.viewpagertablayoutdemo.botton1">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="課程："
+        android:textColor="@color/abc_input_method_navigation_guard"
+        android:textSize="40sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="199dp"
+        android:layout_marginTop="51dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="345dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="13dp"
+        android:text="知識：讓學生了解行動裝置的趨勢及App之開發架構，使學生得以了解如何透過行動平台提供各項服務。"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="247dp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="345dp"
+        android:layout_height="50dp"
+        android:text="技能：使學生了解應用程式開發所需之專業技能，並透過實際開發應用程式來進行。"
+        android:textSize="18sp"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/textView3"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="345dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="14dp"
+        android:text="態度：使學生了解設計與開發行動應用程式之專業態度，以建立正確之職場態度。"
+        android:textSize="18sp"
+        android:layout_below="@+id/textView5"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="講師："
+        android:textColor="@color/abc_input_method_navigation_guard"
+        android:textSize="40sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="343dp"
+        android:layout_below="@+id/textView11"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_marginTop="14dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="345dp"
+        android:layout_height="97dp"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="18dp"
+        android:text="曾龍教授"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="406dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="250dp"
+        android:layout_height="200dp"
+        android:background="@drawable/aa"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/textView2"
+        android:layout_toEndOf="@+id/textView2" />
+
+</RelativeLayout>
